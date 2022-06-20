@@ -1,6 +1,6 @@
- {
+ {https://github.com/aleiljl/freecodecamp-study/blob/main/package.json
   "name": "fcc-learn-npm-package-json",
-  "author": "alei_ljl",
+  "author": "alei-ljl",
   "dependencies": {
     "express": "^4.14.0"
   },
